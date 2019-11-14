@@ -9,6 +9,10 @@
 import Foundation
 import UIKit
 
+protocol ___VARIABLE_moduleName___InteractorProtocol: class {
+
+}
+
 class ___FILEBASENAMEASIDENTIFIER___ {
   weak var presenter: ___VARIABLE_moduleName___Presenter?
 }

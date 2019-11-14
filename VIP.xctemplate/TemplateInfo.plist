@@ -48,20 +48,6 @@
 		</dict>
 		<dict>
 			<key>Default</key>
-			<string>___VARIABLE_moduleName___Protocols</string>
-			<key>Description</key>
-			<string>The name of the file containing the protocols for this module</string>
-			<key>Identifier</key>
-			<string>viewControllerName</string>
-			<key>Name</key>
-			<string>Protocols Name:</string>
-			<key>Required</key>
-			<true/>
-			<key>Type</key>
-			<string>static</string>
-		</dict>
-		<dict>
-			<key>Default</key>
 			<string>___VARIABLE_moduleName___Interactor</string>
 			<key>Description</key>
 			<string>The interactor name</string>
@@ -108,7 +94,7 @@
 		<string>com.apple.platform.iphoneos</string>
 	</array>
 	<key>SortOrder</key>
-	<string>6</string>
+	<string>5</string>
 	<key>Summary</key>
 	<string>Create a VIP Module.</string>
 </dict>
