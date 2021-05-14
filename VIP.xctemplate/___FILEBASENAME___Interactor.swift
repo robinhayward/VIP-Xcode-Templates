@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-protocol ___VARIABLE_moduleName___InteractorProtocol: class {
+protocol ___VARIABLE_moduleName___InteractorProtocol: AnyObject {
 
 }
 

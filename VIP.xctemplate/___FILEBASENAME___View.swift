@@ -9,11 +9,11 @@
 import Foundation
 import UIKit
 
-protocol ___VARIABLE_moduleName___WireframeProtocol: class {
+protocol ___VARIABLE_moduleName___WireframeProtocol: AnyObject {
 
 }
 
-protocol ___VARIABLE_moduleName___ViewProtocol: class {
+protocol ___VARIABLE_moduleName___ViewProtocol: AnyObject {
     var presenter: ___VARIABLE_moduleName___PresenterProtocol? { get set }
     var interactor: ___VARIABLE_moduleName___InteractorProtocol? { get set }
     var wireframe: ___VARIABLE_moduleName___WireframeProtocol? { get set }
